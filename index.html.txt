@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Turki Alshehri – CV</title>
+<style>
+body {
+    font-family: Calibri, "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    color: #222;
+}
+.container {
+    width: 90%;
+    max-width: 900px;
+    margin: auto;
+    padding: 20px 0;
+}
+header {
+    text-align: center;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #000;
+}
+header h1 {
+    margin: 0;
+    font-size: 30px;
+    letter-spacing: 1px;
+}
+header p {
+    margin: 4px 0;
+    font-size: 14px;
+}
+header a {
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #000;
+    margin: 0 5px;
+}
+header a:hover {
+    text-decoration: underline;
+}
+section {
+    margin-top: 20px;
+}
+.section-title {
+    font-size: 18px;
+    font-weight: bold;
+    border-bottom: 2px solid #000;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 8px;
+}
+.summary-text, .experience-text {
+    margin: 0;
+    line-height: 1.5;
+    font-size: 15px;
+    text-align: justify;
+}
+ul {
+    margin: 0;
+    line-height: 1.5;
+    font-size: 15px;
+    padding-left: 20px;
+}
+.item-title {
+    font-weight: bold;
+    font-size: 16px;
+    margin: 8px 0 4px 0;
+}
+@media (max-width:600px) {
+    header h1 {font-size: 24px;}
+    .section-title {font-size: 16px;}
+    .summary-text, .experience-text {font-size: 14px;}
+}
+</style>
+</head>
+<body>
+<div class="container">
+
+<header>
+    <h1>TURKI ALSHEHRI</h1>
+    <p>
+        Saudi Arabia | 
+        <a href="tel:+966556502145">+966 55 650 2145</a> | 
+        <a href="mailto:tpix.cs@gmail.com">tpix.cs@gmail.com</a>
+    </p>
+    <a href="http://linkedin.com/in/turki-mohammed-alshehri" target="_blank">LinkedIn</a>
+</header>
+
+<section>
+    <div class="section-title">Professional Summary</div>
+    <p class="summary-text">
+        Motivated Computer Science graduate with solid knowledge in networking, cybersecurity, and IT support. Quick learner and team player committed to continuous improvement, passionate about troubleshooting, securing systems, configuring networks, and delivering efficient technical support to users and organizations.
+    </p>
+</section>
+
+<section>
+    <div class="section-title">Education</div>
+    <div class="item-title">B.Sc. in Computer Science – King Khalid University</div>
+    <p style="line-height:1.5; font-size:15px; margin:0;">
+        Graduated: Mar 2023 | GPA: 4.19 / 5.0
+    </p>
+</section>
+
+<section>
+    <div class="section-title">Technical Skills</div>
+    <ul>
+        <li><strong>Programming & Web Development:</strong> Python, HTML/CSS, JavaScript, SQL</li>
+        <li><strong>IT & Networking:</strong> Network Configuration, Cybersecurity Fundamentals, Troubleshooting, VPN Setup, Firewall Management, Wireless Networks</li>
+        <li><strong>Tools & Software:</strong> Microsoft Office (Word, Excel, PowerPoint), Excel data analysis, Basic Power BI, MySQL, Remote Desktop Tools</li>
+        <li><strong>Operating Systems:</strong> Windows, Linux (basic commands & administration), macOS</li>
+        <li><strong>Soft Skills:</strong> Teamwork, Communication, Problem Solving, Time Management, Customer Service, Adaptability, Attention to Detail</li>
+    </ul>
+</section>
+
+<section>
+    <div class="section-title">Experience</div>
+    <div class="item-title">IT Support Technician – Municipality of Tanomah (Jun 2022 – Aug 2022)</div>
+    <p class="experience-text">
+        Maintained and repaired hardware to ensure optimal system performance. Installed and configured operating systems and user applications. Troubleshot and resolved network connectivity issues, supported end-users, and ensured smooth daily IT operations.
+    </p>
+</section>
+
+<section>
+    <div class="section-title">Certifications & Courses</div>
+    <ul>
+        <li>Google IT Support Professional Certificate</li>
+        <li>Computer Hardware Basics – Cisco</li>
+        <li>Technical Support Basics – Google (Coursera)</li>
+        <li>Basics of Cybersecurity – KKUx</li>
+        <li>Internet & Communication Basics – Adrak</li>
+        <li>Information Security Fundamentals – GAI</li>
+        <li>Customer Service & MS Office – Doroob</li>
+    </ul>
+</section>
+
+<section>
+    <div class="section-title">Languages</div>
+    <ul>
+        <li><strong>Arabic:</strong> Native</li>
+        <li><strong>English:</strong> Professional</li>
+    </ul>
+</section>
+
+</div>
+</body>
+</html>
